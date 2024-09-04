@@ -27,6 +27,9 @@ keen for contributing to the development of educational tools and platforms that
   <img src="https://skillicons.dev/icons?i=supabase,go" />
 </p>
 
+### Starred Topics
+<img align="center" width="700" src="/metrics.plugin.topics.svg" alt="Starred Topics">
+
 <!--
 **shoji-ippei/shoji-ippei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
