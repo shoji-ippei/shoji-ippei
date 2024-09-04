@@ -29,7 +29,7 @@ keen for contributing to the development of educational tools and platforms that
 
 ### Starred Topics
 <a href="https://github.com/shoji-ippei?tab=stars">
-  <img align="center" width="700" src="/metrics.plugin.topics.svg" alt="Starred Topics">
+  <img align="center" width="700" src="metrics.plugin.topics.svg" alt="Starred Topics">
 </a>
 
 <!--
