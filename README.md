@@ -28,7 +28,9 @@ keen for contributing to the development of educational tools and platforms that
 </p>
 
 ### Starred Topics
-<img align="center" width="700" src="/metrics.plugin.topics.svg" alt="Starred Topics">
+<a href="https://github.com/shoji-ippei?tab=stars">
+  <img align="center" width="700" src="/metrics.plugin.topics.svg" alt="Starred Topics">
+</a>
 
 <!--
 **shoji-ippei/shoji-ippei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
